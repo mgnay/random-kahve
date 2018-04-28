@@ -7,4 +7,4 @@ isimler = ["Oğuzhan 🤬 ","Yasin 😎 "]
 taraf = ["sağ", "sol"]
 
 print str(isimler[random.getrandbits(1)]) + " " + str(taraf[random.getrandbits(1)]) + "daki kahveyi içer. ☕️"
-
+print 'Mustafa da "Hani bana, hani bana!" der.'
